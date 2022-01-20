@@ -1,0 +1,10 @@
+name: SweetReputation
+version: '${project.version}'
+main: org.kayteam.sweetreputation.SweetReputation
+api-version: 1.13
+prefix: SweetReputation
+depend: [ KayTeamAPI ]
+softdepend: [ PlaceholderAPI ]
+authors: [ SirOswaldo ]
+description: Give reputation to players
+website: https://kayteam.org
